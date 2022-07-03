@@ -15,8 +15,8 @@ created using VS code with Python language and the tkinter and random libraries.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [tkinter pop up documentation]([http://url.link.goes.here](https://docs.python.org/3/library/tkinter.tix.html?highlight=pop%20up#tkinter.tix.PopupMenu))
+* [Liar's doce rules]([http://url.link.goes.here](https://www.dicegamedepot.com/liars-dice-rules/))
 
 # Future Work
 
